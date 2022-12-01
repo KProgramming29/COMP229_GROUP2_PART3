@@ -1,0 +1,29 @@
+nav {
+  padding: 0.5% 0;
+  z-index: 10;
+  background-color: #264653;
+}
+
+li {
+  margin: auto 5%;
+}
+
+a {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #e9c46a;
+}
+
+.active-link {
+  color: #F4A261;
+}
+
+.logo {
+  color: #F4A261;
+  font-family: "Blanka", sans-serif;
+}
